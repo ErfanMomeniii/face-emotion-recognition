@@ -55,4 +55,4 @@ Data source: [Emotion Detection FER Dataset](https://www.kaggle.com/datasets/ana
 - [Facial Emotion Recognition Based on Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9641578)
 
 ## License
-<b>face-emotion-recognition</b> is released under [MIT License](Licence).
+<b>face-emotion-recognition</b> is released under [MIT License](LICENSE).
