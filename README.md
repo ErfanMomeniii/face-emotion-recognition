@@ -11,6 +11,8 @@ detecting and categorizing facial emotions into the following categories:
 * Sad
 * Surprised
 
+![](./docs/face.gif)
+
 ## Training Models
 
 For training the models, I utilized Kaggle data. The prediction accuracy of the models is above 87 percent, as shown
