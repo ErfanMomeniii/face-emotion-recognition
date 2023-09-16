@@ -15,7 +15,7 @@ detecting and categorizing facial emotions into the following categories:
 
 ## Training Models
 
-For training the models, I utilized Kaggle data. The prediction accuracy of the models is above 87 percent, as shown
+For training models, I utilized Kaggle data. The prediction accuracy of the models is above 87 percent, as shown
 below:
 <p align="left">
 <img src="./docs/train.png">
