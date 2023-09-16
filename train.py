@@ -62,6 +62,6 @@ def train():
         np.array(train_images),
         np.array(train_labels),
         batch_size=1,
-        epochs=30,
+        epochs=200,
         validation_data=(np.array(test_images), np.array(test_labels)),
     )
