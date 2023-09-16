@@ -1,6 +1,7 @@
 # Face Emotion Recognition
 
-This project is an implementation of facial emotion recognition using convolutional neural networks. It is capable of detecting and categorizing facial emotions into the following categories:
+This project is an implementation of facial emotion recognition using convolutional neural networks. It is capable of
+detecting and categorizing facial emotions into the following categories:
 
 * Angry
 * Disgusted
@@ -12,7 +13,8 @@ This project is an implementation of facial emotion recognition using convolutio
 
 ## Training Models
 
-For training the models, I utilized Kaggle data. The prediction accuracy of the models is above 87 percent, as shown below:
+For training the models, I utilized Kaggle data. The prediction accuracy of the models is above 87 percent, as shown
+below:
 <p align="left">
 <img src="./docs/train.png">
 </p>
@@ -22,17 +24,24 @@ You can improve the accuracy by adjusting hyperparameters or implementing data a
 # Installation
 
 1. Clone this project:
+
 ```
 git clone https://github.com/ErfanMomeniii/face-emotion-recognition.git
 ```
+
 2. Install the required libraries:
+
 ```
 pip install -r requirements.txt
 ```
-3. Train the model and run it to capture and recognize facial emotions:
+
+3. Download the Kaggle data and store it in the `/dataset/` folder.
+4. Train the model and run it to capture and recognize facial emotions:
+
 ```
 python face-emotion-recognition.py
 ```
+
 ## Data Reference
 
 Data source: [Emotion Detection FER Dataset](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)
